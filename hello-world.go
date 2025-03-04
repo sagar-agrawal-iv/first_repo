@@ -59,8 +59,9 @@ func main() {
 
 	// panic("a problem")
 
-	string_help()
+	// string_help()
 
+	time_func()
 	// _, err := os.Create("/tmp/file")
 	// if err != nil {
 	// 	panic(err)
